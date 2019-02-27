@@ -1,8 +1,9 @@
 clear; clc;
 
-addpath('simu');
+addpath('simulations');
+addpath('model');
+addpath(genpath('fig'));
 addpath(genpath('solver'));
-addpath(genpath('utils'));
-addpath(genpath('tools'));
+
 
 
